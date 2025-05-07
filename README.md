@@ -1,5 +1,8 @@
 # 💫 About Me:
-Me llamo Alejandro Rodríguez López-Cózar, soy un estudiante de Ciberseguridad
+Me llamo Alejandro Rodríguez López-Cózar, soy un profesional en ciberseguridad con una sólida base en el desarrollo de aplicaciones web y un máster
+en ciberseguridad. Me apasiona particularmente el análisis de vulnerabilidades y el pentesting, aplicando
+un enfoque práctico y directo. Mi experiencia en desarrollo me permite crear herramientas y scripts que
+optimizan auditorías, automatizan tareas y fortalecen la seguridad en entornos reales
 
 
 ## 🌐 Socials:
